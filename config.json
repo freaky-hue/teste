@@ -2,7 +2,7 @@
   "name": "WebHook",
   "shortName": "webhook",
   "version": "0.0.0",
-  "author": "Ryan ",
+  "author": "",
   "description": "",
   "hasAdminPanel": false,
   "homepage": "https://github.com/ryanblenis/MeshCentral-Sample",
@@ -16,4 +16,5 @@
   },
   "versionHistoryUrl": "https://api.github.com/repos/ryanblenis/MeshCentral-Sample/tags",
   "meshCentralCompat": ">=0.4.4-s"
+
 }
