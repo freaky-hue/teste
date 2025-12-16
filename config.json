@@ -8,7 +8,7 @@
   "homepage": "https://github.com/freaky-hue/teste",
   "changelogUrl": "https://raw.githubusercontent.com/freaky-hue/teste/refs/heads/main/changelog.md",
   "configUrl": "https://raw.githubusercontent.com/freaky-hue/teste/refs/heads/main/config.json",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/freaky-hue/teste/archive/refs/tags/master.zip",
   "hasServer": "true",
   "repository": {
     "type": "git",
@@ -17,5 +17,6 @@
   "meshCentralCompat": ">=0.4.4-s"
 
 }
+
 
 
