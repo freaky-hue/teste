@@ -1,0 +1,19 @@
+{
+  "name": "WebHook",
+  "shortName": "webhook",
+  "version": "0.0.0",
+  "author": "Ryan ",
+  "description": "",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/ryanblenis/MeshCentral-Sample",
+  "changelogUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-Sample/master/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-Sample/master/config.json",
+  "downloadUrl": "https://github.com/ryanblenis/MeshCentral-Sample/archive/master.zip",
+  "hasServer": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanblenis/MeshCentral-Sample.git"
+  },
+  "versionHistoryUrl": "https://api.github.com/repos/ryanblenis/MeshCentral-Sample/tags",
+  "meshCentralCompat": ">=0.4.4-s"
+}
