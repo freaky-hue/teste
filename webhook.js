@@ -16,7 +16,7 @@ console.log("Carregadooo");
 
 
 // 💥 Solução para o TypeError: A função deve ser exportada sob o nome curto ('webhook').
-module.exports.sample = function (parent) {
+module.exports.webhook = function (parent) {
   const plugin = {};
   plugin.parent = parent;
   plugin.meshServer = parent.meshServer;
