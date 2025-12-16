@@ -5,7 +5,7 @@
   "author": "",
   "description": "",
   "hasAdminPanel": false,
-  "homepage": "https://github.com/ryanblenis/MeshCentral-Sample",
+  "homepage": "https://github.com/freaky-hue/teste",
   "changelogUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-Sample/master/changelog.md",
   "configUrl": "https://raw.githubusercontent.com/ryanblenis/MeshCentral-Sample/master/config.json",
   "downloadUrl": "https://github.com/ryanblenis/MeshCentral-Sample/archive/master.zip",
@@ -18,3 +18,4 @@
   "meshCentralCompat": ">=0.4.4-s"
 
 }
+
