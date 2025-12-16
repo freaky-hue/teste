@@ -13,6 +13,7 @@ module.exports.webhook = function (parent) {
     const WEBHOOK_URL = 'http://192.168.1.147:1880/meshcentral';
 
     function sendWebhook(payload) {
+      return true;
         try {
             const data = JSON.stringify(payload);
             const url = new URL(WEBHOOK_URL);
